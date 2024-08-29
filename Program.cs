@@ -2,8 +2,15 @@
 
 namespace ConsoleApp1
 {
+    /// <summary>
+    /// The main entry point for the application.
+    /// </summary>
     internal class Program
     {
+        /// <summary>
+        /// The main method that executes when the application starts.
+        /// </summary>
+        /// <param name="args">The command-line arguments.</param>
         static void Main(string[] args)
         {
             // Create library
